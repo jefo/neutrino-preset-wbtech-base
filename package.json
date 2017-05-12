@@ -1,0 +1,8 @@
+{
+  "name": "neutrino-preset-wbtech-base",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:jefo/neutrino-preset-wbtech-base.git",
+  "author": "WB—Tech",
+  "license": "MIT"
+}
